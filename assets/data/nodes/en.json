@@ -1,0 +1,17 @@
+[
+    {
+        "id": "cant-stop-wont-stop",
+        "name": "Can't Stop Won't Stop",
+        "description": "The duration of the Attacker's Unstoppable effects are increased by <span class=\"text-green-500\">{0}</span>, however the Defender takes <span class=\"text-green-500\">{1}</span> less Damage unless  the Attacker is Unstoppable."
+    },
+    {
+        "id": "double-down",
+        "name": "Double Down",
+        "description": "Whenever a Skill Attacker fails to apply a Debuff to the Defender due to an Immunity, they gain a Precision Buff increasing Critical Rating by +1,433 for 10 second(s)."
+    },
+    {
+        "id": "power-focus",
+        "name": "Power Focus",
+        "description": "The Defender gains <span class=\"text-green-500\">{0}</span> Combat Power Rate while below 2 Bars of Power, but suffers <span class=\"text-red-500\">{1}</span> Combat Power Rate while above."
+    }
+]
