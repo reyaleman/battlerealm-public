@@ -5,13 +5,83 @@
         "description": "The duration of the Attacker's Unstoppable effects are increased by <span class=\"text-green-500\">{0}</span>, however the Defender takes <span class=\"text-green-500\">{1}</span> less Damage unless  the Attacker is Unstoppable."
     },
     {
+        "id": "chitinous-thorns",
+        "name": "Chitinous Thorns",
+        "description": "If the Defender has an Armor Up Buff, the Attacker is inflicted with a Bleed Debuff causing <span class=\"text-green-500\">{0}</span> of the Defender's Attack over <span class=\"text-green-500\">{1}</span> seconds, each time Contact is made."
+    },
+    {
+        "id": "colorblind",
+        "name": "Colorblind",
+        "description": "For each champion of the same class on the Attacker's team, they suffer a Degeneration of <span class=\"text-green-500\">{0}</span> of their max health over 15 seconds at the start of the fight."
+    },
+    {
+        "id": "cosmic-fracture",
+        "name": "Cosmic Fracture",
+        "description": "Cosmic Attacker's Light Attacks have a 50% chance to Armor Break the Defender, reducing their Armor Rating by 40% for 7 second(s). If the Light Hit was Critical, the chance is 100% instead."
+    },
+    {
+        "id": "cutting-wires",
+        "name": "Cutting Wires",
+        "description": "Whenever a Robotic Attacker would gain a Bleed Debuff, they instead gain a Shock Debuff dealing <span class=\"text-green-500\">{0}</span> of the Defender's Attack Rating as Direct Damage over 5 seconds."
+    },
+    {
         "id": "double-down",
         "name": "Double Down",
         "description": "Whenever a Skill Attacker fails to apply a Debuff to the Defender due to an Immunity, they gain a Precision Buff increasing Critical Rating by +1,433 for 10 second(s)."
     },
     {
+        "id": "flare",
+        "name": "Flare",
+        "description": "The Opponent gains <span class=\"text-green-500\">{0}</span> Attack, but takes <span class=\"text-green-500\">{1}</span> of their Max Health as Direct Damage over 60 seconds. The strength of the Damage is affected by Class Relationships."
+    },
+    {
+        "id": "got-a-light",
+        "name": "Got A Light?",
+        "description": "Both the Attacker and Defender's strikes have a <span class=\"text-green-500\">{0}</span> chance to apply an Incinerate Debuff, dealing <span class=\"text-green-500\">{1}</span> of Attack as Energy Damage over <span class=\"text-green-500\">{2}</span> seconds."
+    },
+    {
+        "id": "invade",
+        "name": "Invade",
+        "description": "Both Champions have 100% Block Penetration and 300% increased Attack when hitting a Block."
+    },
+    {
+        "id": "kinetic-instigator",
+        "name": "Kinetic Instigator",
+        "description": "The Opponent generates Power when striking this Champion's Block."
+    },
+    {
+        "id": "masochism",
+        "name": "Masochism",
+        "description": "Every 7 seconds the next Debuff triggered on this Champion is immediately removed. Each time this effect trriggers they Regenerate <span class=\"text-green-500\">{0}</span> of their Max Health."
+    },
+    {
+        "id": "mighty-charge",
+        "name": "Mighty Charge",
+        "description": "When performing a Medium dash attack the Defender Purifies all active Debuffs and becomess immune to future Debuffs until the dash ends. Any Debuffs remaining after the Purify are removed when the Immunity activates."
+    },
+    {
+        "id": "oscillate",
+        "name": "Oscillate",
+        "description": "Every 15 seconds, the Defender alternates between a Fury passive increasing Base Attack by 100% and an Armor Up/Crit Resistance passive increasing Armor and Crit Resist by 500. These Passives are unaffected by Ability Accuracy modification."
+    },
+    {
+        "id": "pleasure-to-burn",
+        "name": "Pleasure to Burn",
+        "description": "Incinerate Debuffs and Passives deal <span class\"text-green-500\">{0}</span> more damage to the Defender, and they take <span class\"text-green-500\">{1}</span> less damage from all sources unless they are inflicted with an Incinerate Debuff or Passive."
+    },
+    {
         "id": "power-focus",
         "name": "Power Focus",
         "description": "The Defender gains <span class=\"text-green-500\">{0}</span> Combat Power Rate while below 2 Bars of Power, but suffers <span class=\"text-red-500\">{1}</span> Combat Power Rate while above."
+    },
+    {
+        "id": "turtling",
+        "name": "Turtling",
+        "description": "If the Attacker hasn't landed a hit in 6 seconds the Defenderr gains an indefinite Armor Up Buff, increasing their Armor Rating by <span class=\"text-green-500\">{0}</span>, with a max of 3 stacks.<br />Landing a hit resets the timer."
+    },
+    {
+        "id": "muscle-wizard",
+        "name": "Muscle Wizard",
+        "description": "Whenever a Mystic Attacker knocks down the Defender, the Attacker has a 100% chance to gain an Unstoppable Buff for 6 second(s). If the Attacker was already Unstoppable, they instead gain an indefinite Fury Buff, increasing Attack Rating by 50%. A maximum of 4 Fury Buffs can be gained this way."
     }
 ]
